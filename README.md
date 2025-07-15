@@ -1,5 +1,7 @@
 # dbt-rutorial
 
+https://docs.getdbt.com/guides/manual-install?step=1
+
 # usage
 ## モデルの生成
 model配下にsqlを配置する。以下記述サンプル
